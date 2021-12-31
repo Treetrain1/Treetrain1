@@ -1,2 +1,1 @@
- Hello. I am the developer of Survival Remastered. Nothing more special.
- 
+Hello. I'm making a minecraft modpack called Survival Remastered. That's it.
